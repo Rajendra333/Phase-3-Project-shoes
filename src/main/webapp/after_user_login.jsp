@@ -3,7 +3,7 @@
 <html>
 <head>
  <%@ page import="java.util.*" %>
-    <%@ page import="com.prajval.phase3.*" %>
+    <%@ page import="com.rajendra.phase3.*" %>
    
 <%@include file="./base.jsp" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>

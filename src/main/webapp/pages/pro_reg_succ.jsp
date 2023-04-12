@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>PRAJVAL BHALE</title>
+<title>RAJENDRA</title>
 </head>
 <body>
 <h1>Product Inserted Sucessfully</h1>

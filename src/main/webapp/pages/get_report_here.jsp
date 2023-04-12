@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<%@page import="com.prajval.phase3.Product"%>
+<%@page import="com.rajendra.phase3.Product"%>
 <%@page import="java.util.List"%>
 <%@include file="./base.jsp" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
 <meta charset="ISO-8859-1">
-<title>PRAJVAL BHALE</title>
+<title>RAJENDRA</title>
 </head>
 <body>
 <table class="table table-striped">

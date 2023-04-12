@@ -1,12 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
     <%@ page import="java.util.*" %>
-    <%@ page import="com.prajval.phase3.*" %>
+    <%@ page import="com.rajendra.phase3.*" %>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>PRAJVAL BHALE</title>
+<title>RAJENDRA</title>
 </head>
 <body>
 <% List<User> up = (List<User>)request.getAttribute("u_pass"); %>
